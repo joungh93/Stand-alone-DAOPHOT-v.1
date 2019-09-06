@@ -14,9 +14,9 @@ init_cfg.py    # Initial configurations
 
 alip_img.py    # Aligning images w/ the Alipy 2.0 package (only if needed!)
 
-mk_fits.py    # Making single extension FITS files (only if needed!)
-
 # Workflow
+mk_fits.py    # Making single extension FITS files with adding/multiplying pixel counts
+
 mk_opt.py    # Making *.opt files
 
 mk_dao1.py    # Making a script for running the 1st DAOPHOT step
