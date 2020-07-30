@@ -6,7 +6,7 @@
 Test codes for automatically running PSF photometry using the stand-alone version of [DAOPHOT II: The Next Generation](http://www.astro.wisc.edu/sirtf/daophot2.pdf).
 
 
------ now revising -----
+----- now revising below -----
 
 
 ## Test images
