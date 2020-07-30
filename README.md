@@ -6,6 +6,9 @@
 Test codes for automatically running PSF photometry using the stand-alone version of [DAOPHOT II: The Next Generation](http://www.astro.wisc.edu/sirtf/daophot2.pdf).
 
 
+(revising...)
+
+
 ## Test images
 A patch (6,2) out of M81 HSC gri images ('M81_1' field)
 
