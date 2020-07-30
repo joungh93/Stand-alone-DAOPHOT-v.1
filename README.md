@@ -1,4 +1,4 @@
-# Stand-alone-DAOPHOT-v.1
+# pyDAOPHOT-v.1
 (updated on 2020. 07. 30.)
 
 
