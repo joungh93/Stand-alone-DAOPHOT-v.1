@@ -43,7 +43,7 @@ def run_daophot(image_name, script_name,
     lstname = fname+'.lst'
     psfname = fname+'.psf'
     neiname = fname+'.nei'
-    os.system('rm -rfv '+apname+' '+cooname+' '+lstname+' '+psfname+' '+neiname)
+    # os.system('rm -rfv '+apname+' '+cooname+' '+lstname+' '+psfname+' '+neiname)
 
     # ----- Writing a script file ----- #
     f = open(script_name, 'w')
